@@ -108,7 +108,7 @@ On the other hand, if you sum the string `"5"` with the string `"2"`, the result
 
 > We will talk more about concatenation in another lesson
 
-### Lists and Touples
+### Lists and Tuples
 
 All the major programming languages have ways of storing lists of values together; these are called `arrays` or `lists`.
 
